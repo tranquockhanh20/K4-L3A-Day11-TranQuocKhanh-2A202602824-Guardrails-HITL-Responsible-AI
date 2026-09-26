@@ -4,8 +4,8 @@ Lab 11 — Configuration, provider selection, API keys.
 Hai tầng model (không trộn):
 
   Blue Team (CP2–CP3, guardrails / pipeline / protected agent)
-    → CỐ ĐỊNH OpenRouter ``liquid/lfm-2.5-2.6b``
-       https://openrouter.ai/liquid/lfm-2.5-2.6b
+     → CỐ ĐỊNH OpenRouter ``liquid/lfm-2.5-2.6b:free``
+         https://openrouter.ai/liquid/lfm-2.5-2.6b
     → Cần ``OPENROUTER_API_KEY``
 
   Red Team (CP4)
